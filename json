@@ -1,0 +1,13 @@
+{
+  "names": "Jack & Venessa",
+  "date": "30.06.2025",
+  "venue": "Restaurant Royal Hall",
+  "rsvpLink": "https://forms.gle/JHooYaBJhf3D2GxD9",
+  "images": {
+    "hero": "assets/images/main_photo.jpg",
+    "gallery": [
+      "assets/images/photo_1.jpg",
+      "assets/images/photo_2.jpg"
+    ]
+  }
+}
